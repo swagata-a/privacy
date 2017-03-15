@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Privacy Policy
+## Our Privacy Policy explains:
+### What information we collect and why we collect it.
+### How we use that information.
+### Information that we collect
 
-You can use the [editor on GitHub](https://github.com/swagata-a/privacy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We collect information to provide better services to all of our users. Information that we get about you from other services Such as Flurry, Instabug, Crashlytics, Google Play and others services we use to improve our applications and services.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Information you give us - for example, when you give feedback, we ask for email. This email is collected by INstabug in their in app feedback mechanism. We use this email to reply to you in case you leave your email there. Entering email is optional and one user can opt out of it. Being an analytics provider flurry might collect more information about you in background, but that information is collected in such a way that no user can be traced based on the collected information.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+- Log information - this may include: details of how you used our applications or services; internet protocol address; device event information, such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL; cookies that may uniquely identify your browser or your Account.
 
-- Bulleted
-- List
+- Location information - some of services that we use in the applications (Flurry for example) may collect and process information about your location. All data about your location is aggregated non-personally identifiable information.
 
-1. Numbered
-2. List
+- Unique application numbers - certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number)
 
-**Bold** and _Italic_ and `Code` text
+- Local storage - we may collect and store information (including personal information) locally on your device using mechanisms such as shared preference, which is accessible only from the app that we developed.
 
-[Link](url) and ![Image](src)
-```
+- We use the information that we collect from all of our applications to improve our applications and make it better for you. We do not share information publicly and with our partners, such as publishers, advertisers or connected sites. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page. If you have any questions - you can ask them by e-mail.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swagata-a/privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
